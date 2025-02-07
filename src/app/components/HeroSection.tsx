@@ -8,7 +8,7 @@ export default function HeroSection() {
           <div
             className={` text-wrap text-3xl lg:text-4xl flex flex-col lg:flex-row lg:gap-1 font-semibold ${ubuntufont.className}`}
           >
-            Hello! <span>I&apos;m Amaan.</span>
+            Hello! <span>I&apos;m Amaan mirza.</span>
           </div>
           <div className={`${ubuntufont.className}`}>
             A multidisciplinary developer with a passion for creating engaging,
