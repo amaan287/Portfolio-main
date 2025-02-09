@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import { ubuntufont } from "../utils/fonts";
 export default function HeroSection() {
