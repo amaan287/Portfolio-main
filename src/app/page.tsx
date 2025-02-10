@@ -1,8 +1,8 @@
 "use client";
-import LocomotiveScroll from "locomotive-scroll";
 import Header from "./components/Header";
 import HeroSection from "./components/HeroSection";
 import { useRef, useEffect } from "react";
+import LocomotiveScroll from "locomotive-scroll";
 
 export default function Home() {
   const scrollRef = useRef(null);
